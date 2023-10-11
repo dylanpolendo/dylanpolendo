@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Conducting A Security Audit</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Botium Toys Controls & Compliance](https://docs.google.com/document/d/1Wwr0x8wqDwNq8YSVEPK3POYb-WhnNdEjc4CCPBRdxdQ/edit?usp=sharing)
 - <b>Analyzing Network Structure and Security</b>
+  - [Analyzing Network Layer Communication Activity](https://docs.google.com/document/d/1iC4gNbWJ2Uw1nBfN0hEFBZHGzRZHkuEafa06tp5JCPI/edit?usp=sharing)
 - <b>Using Linux Commands To Manage File Permissions</b>
 - <b>Applying Filters to SQL Queries</b>
 - <b>Identifying Vulnerabilities For A Small Business</b>
