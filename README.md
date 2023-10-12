@@ -6,6 +6,7 @@
   - [Botium Toys Controls & Compliance](https://docs.google.com/document/d/1Wwr0x8wqDwNq8YSVEPK3POYb-WhnNdEjc4CCPBRdxdQ/edit?usp=sharing)
 - <b>Analyzing Network Structure and Security</b>
   - [Analyzing Network Layer Communication Activity](https://docs.google.com/document/d/1iC4gNbWJ2Uw1nBfN0hEFBZHGzRZHkuEafa06tp5JCPI/edit?usp=sharing)
+  - [Applying (OS) Hardening Techniques](https://docs.google.com/document/d/1G3ECheMplRydL93hjXrjDajvvg96OAvClr6wzLnCAR4/edit?usp=sharing)
 - <b>Using Linux Commands To Manage File Permissions</b>
 - <b>Applying Filters to SQL Queries</b>
 - <b>Identifying Vulnerabilities For A Small Business</b>
