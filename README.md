@@ -7,7 +7,8 @@
 - <b>Analyzing Network Structure and Security</b>
   - [Analyzing Network Layer Communication Activity](https://docs.google.com/document/d/1iC4gNbWJ2Uw1nBfN0hEFBZHGzRZHkuEafa06tp5JCPI/edit?usp=sharing)
   - [Applying (OS) Hardening Techniques](https://docs.google.com/document/d/1G3ECheMplRydL93hjXrjDajvvg96OAvClr6wzLnCAR4/edit?usp=sharing)
-- <b>Using Linux Commands To Manage File Permissions</b>
+- <b>Managing Authorization Using Linux Commands</b>
+  - [Using Linux Commands To Manage File Permissions](https://docs.google.com/document/d/10yE4iQpmFUVhk00UG_NmtxxXmTcBOQNUeaUB3e9donM/edit?usp=sharing&resourcekey=0-BTRo_mxgoFy_nagw4cTm9w)
 - <b>Applying Filters to SQL Queries</b>
 - <b>Identifying Vulnerabilities For A Small Business</b>
 - <b>Documenting Incidents With An Incident Handler’s Journal</b>
