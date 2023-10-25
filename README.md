@@ -10,6 +10,7 @@
 - <b>Managing Authorization Using Linux Commands</b>
   - [Using Linux Commands To Manage File Permissions](https://docs.google.com/document/d/10yE4iQpmFUVhk00UG_NmtxxXmTcBOQNUeaUB3e9donM/edit?usp=sharing&resourcekey=0-BTRo_mxgoFy_nagw4cTm9w)
 - <b>Applying Filters to SQL Queries</b>
+   - [Apply filters to SQL queries](https://docs.google.com/document/d/1VxKsMkvCBERPUTr38bfm62igcH9WjCF328D6daC4Ur4/edit?usp=sharing&resourcekey=0-hQeDxXS0qn4sUyLjiKzneQ)
 - <b>Identifying Vulnerabilities For A Small Business</b>
 - <b>Documenting Incidents With An Incident Handler’s Journal</b>
 - <b>Importing And Parsing A Text File In A Security-Related Scenario</b>
